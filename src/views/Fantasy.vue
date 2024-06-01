@@ -11,7 +11,6 @@ onBeforeMount(async () => {
 <template>
   <section>
     <Card v-for="i in games" :key="i" :game="i" />
-    {{ games }}
   </section>
 </template>
 

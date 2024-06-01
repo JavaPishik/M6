@@ -19,7 +19,7 @@ header {
   background: #292f32;
 }
 .router-link-active {
-  color: white;
+  color: #aaa;
   font-size: 35px;
 }
 </style>
